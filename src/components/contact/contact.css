@@ -1,7 +1,11 @@
+
 .container.contact__container{
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
+    padding-bottom: 9rem;
+    /* padding-left: 30rem; */
+    /* background: black; */
 }
 
 .contact__options {

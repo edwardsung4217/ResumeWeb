@@ -11,11 +11,11 @@
 
 :root {
   --color-bg: #1f1f38;
-  --color-bg-variant: purple;
+  --color-bg-variant: #5C77E1;
   --color-primary: lightblue;
-  --color-primary-variant: green;
+  --color-primary-variant: white;
   --color-white: white;
-  --color-light: pink;
+  --color-light: #9FD0D4;
 
   --transition : all 400ms ease;
 

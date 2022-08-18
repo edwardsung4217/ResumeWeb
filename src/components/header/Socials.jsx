@@ -1,10 +1,10 @@
 import React from "react";
-import {AiFillYoutube} from 'react-icons/ai'
+// import {AiFillYoutube} from 'react-icons/ai'
 
 const Socials = () => {
   return (
     <div className="header__socials">
-        <a href="https:/youtube.com" target="_blank"><AiFillYoutube/></a>    
+        {/* <a href="https:/youtube.com" target="_blank"><AiFillYoutube/></a>     */}
         
     </div>
   )

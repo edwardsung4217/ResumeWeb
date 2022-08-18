@@ -1,6 +1,6 @@
 header{
     height: 100vh;
-    padding-top: 7rem;
+    padding-top: 3rem;
     overflow: hidden;
 }
 
@@ -17,7 +17,7 @@ header{
     justify-content: center;
 }
 
-.header__socials{
+/* .header__socials{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -32,7 +32,7 @@ header{
     width: 1px;
     height: 2rem;
     background: var(--color-primary);
-}
+} */
 
 .me {
     background-color: var(--color-primary);
@@ -41,7 +41,7 @@ header{
     position: absolute;
     left: calc(50% - 11rem);
     margin-top: 4rem;
-    border-radius: 12rem 12rem 0 0;
+    border-radius: 25rem 25rem 25rem 25rem;
     overflow:hidden;
     padding: 5rem 1.5rem 1.5rem 1.5 rem
 }
